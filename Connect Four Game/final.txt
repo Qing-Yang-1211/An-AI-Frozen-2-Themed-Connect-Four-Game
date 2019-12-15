@@ -1,4 +1,4 @@
-In our project, we modified one of the most beloved family games Connect 4 to 
+In this project, I modified one of the most beloved family games Connect 4 to 
 integrate a high-level artificial intelligence and autonomy.
 
 With a 7 columns × 6 rows game board, the game can be played between two AI players, 
@@ -9,13 +9,12 @@ and the ply - the number of moves that the player should look into the future wh
 
 The game can also return a list of scores, representing the "goodness" of the player's next move into each column, in order to help players make wise decisions. 
 
-In addition, in recognition of the new Frozen 2 movie, we have designed a Frozen 2 - themed game for human players.
+In addition, in recognition of the new Frozen 2 movie, I have designed a Frozen 2 - themed game for human players.
 Start the game to find out the story and try calling "Ahtohallan"! 
 Ahtohallan is an ancient river that appears in Frozen 2. 
 Described as a river "full of memories", Ahtohallan holds all the answers to the past.
 It is taken from a beautiful song in Frozen 2, 'All is Found'. HIGHLY RECOMMENDED :)
 
-Last but certainly not least - we were delighted to include a grutor mode! Try calling the magic river "Ahtohallan"!
-You will be pleased. ;)
+Last but certainly not least - I was delighted to include a grutor mode (for HMC CS tutors)! Try calling the magic river "Ahtohallan"!
 
 Happy connecting 4 and Merry Christmas!
